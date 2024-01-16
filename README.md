@@ -1,0 +1,2 @@
+# cursoNetCore
+Curso dotnet core
